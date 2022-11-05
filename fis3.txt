@@ -1,0 +1,3 @@
+“Fish do feel pain. It's likely different from what humans feel, but it is still a kind of pain.
+” At the anatomical level, fish have neurons known as nociceptors, 
+which detect potential harm, such as high temperatures, intense pressure, and caustic chemicals.
